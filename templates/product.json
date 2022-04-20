@@ -118,6 +118,14 @@
         "padding_bottom": 12
       }
     },
+    "mitchell": {
+      "type": "mitchell",
+      "blocks": {
+        "Mitchell's Cool Block": {
+          "type": "heading"
+        }
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -287,6 +295,7 @@
   },
   "order": [
     "main",
+    "mitchell",
     "image-with-text",
     "multicolumn",
     "product-recommendations",
