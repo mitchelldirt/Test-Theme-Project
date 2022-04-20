@@ -121,8 +121,8 @@
     "mitchell": {
       "type": "mitchell",
       "blocks": {
-        "Mitchell's Cool Block": {
-          "type": "heading"
+        "text-mitchell": {
+          "type": "text"
         }
       }
     },
