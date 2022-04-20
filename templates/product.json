@@ -121,9 +121,17 @@
     "mitchell": {
       "type": "mitchell",
       "blocks": {
-        "text-mitchell": {
-          "type": "text"
+        "77ecc5f0-c15d-4764-b3fb-95d581a94db7": {
+          "type": "text",
+          "settings": {
+            "text-mitchell": "HELLO"
+          }
         }
+      },
+      "block_order": [
+        "77ecc5f0-c15d-4764-b3fb-95d581a94db7"
+      ],
+      "settings": {
       }
     },
     "image-with-text": {
